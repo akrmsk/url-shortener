@@ -1,7 +1,5 @@
-LinkLeap | A Modern URL Shortener
-<div align="center">
+# **LinkLeap | A Modern URL Shortener**
 
-</div>
 
 LinkLeap is a full-stack URL shortening application built with a powerful Spring Boot backend and a sleek, modern vanilla JavaScript frontend. It allows users to transform long, unwieldy URLs into short, memorable links that are easy to share, and also generates a QR code for each shortened link.
 
